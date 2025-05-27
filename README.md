@@ -34,6 +34,8 @@ An odds ratio above 1 = more risk. Below 1 = less risk.
 Although we looked at many health features, we didn’t find any one feature that strongly predicts death from heart failure by itself. This means we may need to look at combinations of features together, or use more advanced tools like machine learning to find deeper patterns.
 **Data Source**
 This data came from a trusted public source: the UCI Machine Learning Repository.
+**Code**
+Please check out the html files for the code. 
 
 
 
