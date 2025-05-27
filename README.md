@@ -1,5 +1,4 @@
 # Heart-Failure-Prediction-
-Heart Failure Clinical Data Analysis (Simple Explanation)
 This project looks at health data from people who had heart failure, to see which health conditions might be connected to whether a person survives or not. We use statistics to ask and answer questions like:
 - Does having high blood pressure increase your chance of death?
 - Are people with diabetes more likely to die from heart failure?
