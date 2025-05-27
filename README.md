@@ -13,6 +13,8 @@ pandas, numpy, matplotlib, seaborn, plotly, scipy.stats, forestplot
 To compare distribution differences in:
 - High Blood Pressure vs Death Event
 - Platelet Count vs Death Event
+<img width="907" alt="Screen Shot 2025-05-27 at 07 27 57" src="https://github.com/user-attachments/assets/bc163b55-ecb3-4169-9919-aa51bd6063f6" />
+
 
 **Results:**
 HBP: p-value = 0.1710 → Not Significant
@@ -28,6 +30,11 @@ Tested categorical features against DEATH_EVENT:
 - Gender	0.0000	1.0000	❌ No significant association
 - Anaemia	1.04	0.307	❌ No significant association
 - Diabetes	0.0000	1.0000	❌ No significant association
+- <img width="690" alt="Screen Shot 2025-05-27 at 07 28 45" src="https://github.com/user-attachments/assets/01f3f8dd-871c-4ffd-8349-050f6ce54e32" />
+<img width="476" alt="Screen Shot 2025-05-27 at 07 30 23" src="https://github.com/user-attachments/assets/fb8832c1-e613-4121-969a-ca618c4c81cf" />
+<img width="712" alt="Screen Shot 2025-05-27 at 07 30 56" src="https://github.com/user-attachments/assets/1f47da1a-9c47-4cbc-8307-678dfff64ed3" />
+<img width="707" alt="Screen Shot 2025-05-27 at 07 32 02" src="https://github.com/user-attachments/assets/f17209ec-d32a-4a8c-aab2-4aa55e55f9d6" />
+
 * 3. Odds Ratio & Forest Plot
 Estimated Odds Ratios and Confidence Intervals:
 - Variable	Odds Ratio	95% CI Lower	95% CI Upper
