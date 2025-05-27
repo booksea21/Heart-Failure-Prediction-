@@ -15,11 +15,13 @@ We have information from 299 people. For each person, we know things like:
 We used a test called the 'Mann-Whitney U Test' to compare things like high blood pressure and blood platelet count. The goal: see if these values look very different for people who died versus those who survived.
 
 Result: There was no strong evidence that high blood pressure or platelet count were clearly different between the two groups.
+
 2. Are any conditions clearly linked to death?
 We used another test called the 'Chi-Square Test'. It helps us check if there’s a relationship between two things.
 For example: Are people with anaemia more likely to die?
 
 Result: Again, we didn’t find strong evidence that things like smoking, diabetes, or anaemia are clearly linked to death.
+
 3. What about risk levels?
 We calculated something called 'odds ratios' to see how much more (or less) likely death is when a person has a condition.
 An odds ratio above 1 = more risk. Below 1 = less risk.
@@ -28,9 +30,9 @@ An odds ratio above 1 = more risk. Below 1 = less risk.
 **What Do the Graphs Show?**
 - We looked at blood sodium levels with a bar chart to compare survivors and non-survivors
 - We also checked if people’s ages followed a normal pattern using something called a Q-Q plot
- Final Takeaway
+**Final Takeaway**
 Although we looked at many health features, we didn’t find any one feature that strongly predicts death from heart failure by itself. This means we may need to look at combinations of features together, or use more advanced tools like machine learning to find deeper patterns.
-Data Source
+**Data Source**
 This data came from a trusted public source: the UCI Machine Learning Repository.
 
 
